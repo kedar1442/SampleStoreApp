@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: StoreApplication
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Admin
+Implementation-Vendor-Id: com.demoproject.sampleapp
+Build-Jdk: 1.8.0_261
+Implementation-URL: http://projects.spring.io/spring-boot/StoreApplica
+ tion/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
